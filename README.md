@@ -1,4 +1,4 @@
-# SAT Competition 2022
+# SAT Competition 2022: Call for Solvers and Benchmarks
 
 The 2022 SAT Competition is a competitive event for solvers of the Boolean Satisfiability (SAT) problem. It is organized as a satellite event to the 25th International Conference on Theory and Applications of Satisfiability Testing and stands in the tradition of the yearly SAT Competitions, Races, and Challenges. The deadline for submitting benchmarks and solvers is Monday, February 28, 2022 (23:59 GMT -12). Visit the competition website at https://satcompetition.github.io/2022/ for details.
 
@@ -14,12 +14,18 @@ The 2022 SAT Competition will consist of the following tracks:
 * Cloud Track
 * Bounded Model Checking Track (**new**)
 * No-Limits Track
+* Anniversary Track (!)
 
 
-## Special 
+## Special
 ### Anniversary Track: 20 Years of SAT Competition
 
-Submissions will be run on all Application / Crafted / Main Track Instances of previous SAT competitions.
+International competitions for SAT solvers have a long tradition.
+The first sporadic events took place in the 1990s (Paderborn 1992, DIMACS 1993, and Beijing 1996).
+In 2002, Edward A. Hirsch, Daniel Le Berre, and Laurent Simon initiated a series of regularly scheduled competitions -- the SAT Competition as we know it.
+Today, we can look back on 20 years of exciting public evaluations and award ceremonies -- 20 years of SAT competitions that testify to the tremendous scientific progress made in solving SAT problems.
+We would like to celebrate the 20th anniversary of this event series in the form of a special Anniversary Track.
+The benchmarks for this track will be comprised of all benchmark instances used in application-, crafted-, and main tracks of previous SAT competitions.
 
 
 ## New This Year
@@ -35,6 +41,10 @@ In 2022 SAT Competition, the Portfolio Rule will *not* apply to the Cloud Track.
 
 
 ## Other Important Aspects
+
+### Special Innovation Price
+All participating solvers which do not receive an award for their average overall performance are eligible for receiving the special innovation price which is given for best contributions to portfolio performance.
+We invite you to also submit your specialized configurations and edgy solvers. Keep in mind that we will generate a huge data-set in this years anniversary track.
 
 ### BYOB: Bring Your Own Benchmarks
 Each Main Track participant (team) is required to submit 20 new benchmark instances (not seen in previous competitions). At least 10 of those benchmarks should be "interesting": not too easy (i.e., not solved by MiniSat within one minute on modern hardware) or not too hard (unsolvable by the participant's own solver within one hour on a computer similar to the nodes of the StarExec cluster).
