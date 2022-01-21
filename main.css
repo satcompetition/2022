@@ -38,7 +38,7 @@ a.active { color:var(--link-color-2); }
   margin: 0;
   padding: 0;
   margin-left: 20px;
-  color: #45503b;
+  color: var(--text-color);
 }
 
 .heading {
