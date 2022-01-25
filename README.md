@@ -27,7 +27,7 @@ Today, we can look back on 20 years of exciting public evaluations and award cer
 We celebrate the 20th anniversary of this event series in the form of a special Anniversary track.
 The benchmarks for this track will be comprised of *all benchmark instances* which have been used in Application, Crafted, and Main Tracks of previous SAT competitions.
 
-All solvers of the Main, Parallel and Cloud tracks will automatically participate in the Anniverary Track.
+All solvers in the Main, Parallel and Cloud tracks will automatically participate in the Anniverary Track.
 Make sure to also submit your specialized configurations and edgy solvers.
 We are preparing special prices based on contributions to portfolio performance.
 
