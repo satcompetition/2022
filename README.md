@@ -40,7 +40,7 @@ In 2022 SAT Competition, we will use the newer CaDiCaL version 1.4.1 (available 
 
 **Portfolios Allowed in Cloud Track**
 
-In 2022 SAT Competition, the Portfolio Rule will *not* apply to the Cloud track.
+In 2022 SAT Competition, the portfolio rule will *not* apply to the Cloud track.
 
 
 ## Other Aspects to Highlight
