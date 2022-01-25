@@ -10,11 +10,11 @@ The 2022 SAT Competition will consist of the following tracks:
 
 * Main Track (with CaDiCaL Hack subtrack, and No Limits evaluation)
 
+* 20 Years Special: Anniversary Track
+
 * Parallel Track
 
 * Cloud Track
-
-* 20 Years Special: Anniversary Track
 
 
 ## Anniversary Track: 20 Years of SAT Competition
@@ -36,7 +36,7 @@ We are preparing special prices based on contributions to portfolio performance.
 
 **CaDiCaL 1.4.1 in Hack Track**
 
-In 2022 SAT Competition, we will use the newer CaDiCaL version 1.4.1. Participants of the Main track will qualify as a CaDiCaL Hack if the diff between the patched and modified sources of CaDiCaL 1.4.1 is less than 1000 non-space characters.
+In 2022 SAT Competition, we will use the newer CaDiCaL version 1.4.1 (available at https://github.com/arminbiere/cadical/tree/rel-1.4.1). Participants of the Main track will qualify as a CaDiCaL Hack if the diff between the original and the modified sources of CaDiCaL 1.4.1 is less than 1000 non-space characters.
 
 **Portfolios Allowed in Cloud Track**
 
