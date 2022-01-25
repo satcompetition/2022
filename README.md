@@ -63,4 +63,4 @@ The solvers will be ranked based on their penalized average runtime (PAR-2). The
 
 **Cloud track**
 
-Amazon Web Services is enabling and sponsoring a "cloud track" for the SAT Competition in 2022. The solvers in this track will run on 100 16-core computers each with 64GB RAM that can communicate using standard protocols (ssh, MPI) with a timeout of 1000 seconds (wall-clock time) per benchmark problem. Amazon Web Services will provide $1000 in AWS credits for building and evaluating solvers, which should be more than enough for development and testing purposes.
+Amazon Web Services is enabling and sponsoring a "cloud track" for the SAT Competition in 2022. The solvers in this track will run on 100 16-core computers each with 64GB RAM that can communicate using standard protocols (ssh, MPI) with a timeout of 1000 seconds (wall-clock time) per benchmark problem. Amazon Web Services will provide AWS credits for building and evaluating solvers, which should be more than enough for development and testing purposes.
