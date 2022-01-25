@@ -1,6 +1,6 @@
 # SAT Competition 2022: Call for Solvers and Benchmarks
 
-The 2022 SAT Competition is a competitive event for solvers of the Boolean Satisfiability (SAT) problem. It is organized as a satellite event to the 25th International Conference on Theory and Applications of Satisfiability Testing and stands in the tradition of the annual SAT Competitions and Races. The deadline for submitting benchmarks and solvers is March 1, 2022 (23:59 GMT -12). Visit the competition website at https://satcompetition.github.io/2022/ for details.
+The 2022 SAT Competition is a competitive event for solvers of the Boolean Satisfiability (SAT) problem. It is organized as a satellite event to the 25th International Conference on Theory and Applications of Satisfiability Testing and stands in the tradition of the annual SAT Competitions and Races. The deadline for *submitting benchmarks and solvers* is April 1, 2022 (23:59 GMT -12). We leave a margin for *updating solver sources* until April 15, 2022 (23:59 GMT -12). Both deadlines are firm in that you may not upload any new submissions after April 1, and no further updates are possible after April 15. Visit the competition website at https://satcompetition.github.io/2022/ for details.
 
 The area of SAT solving has seen tremendous progress over the last years. Many problems in applications such as hardware and software verification that seemed to be completely out of reach a decade ago can now be handled routinely. Besides new algorithms and better heuristics, refined implementation techniques turned out to be vital for this success.
 
@@ -27,9 +27,13 @@ Today, we can look back on 20 years of exciting public evaluations and award cer
 We celebrate the 20th anniversary of this event series in the form of a special Anniversary track.
 The benchmarks for this track will be comprised of *all benchmark instances* which have been used in Application, Crafted, and Main Tracks of previous SAT competitions.
 
-All solvers in the Main, Parallel and Cloud tracks will automatically participate in the Anniverary Track.
-Make sure to also submit your specialized configurations and edgy solvers.
-We are preparing special prices based on contributions to portfolio performance.
+All submissions to the anniversary track have to be open source.
+Solvers which contain code which could be perceived as instance-specific branching or a result-lookup table will be disqualified.
+If you are unsure whether your solver meets these requirements, please feel free to contact us.
+
+There will be three categories of this track, one each for Main track, Parallel track and Cloud track solvers.
+Participants can submit a maximum of two solvers to the Main category of this track, and one solver for each of the Parallel and Cloud categories.
+We particularly welcome you to also submit solvers or configurations which are tailored to specific instance types.
 
 
 ## New This Year
