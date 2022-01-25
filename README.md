@@ -27,13 +27,13 @@ Today, we can look back on 20 years of exciting public evaluations and award cer
 We celebrate the 20th anniversary of this event series in the form of a special Anniversary track.
 The benchmarks for this track will be comprised of *all benchmark instances* which have been used in Application, Crafted, and Main Tracks of previous SAT competitions.
 
-All submissions to the anniversary track have to be open source.
-Solvers which contain code which could be perceived as instance-specific branching or a result-lookup table will be disqualified.
-If you are unsure whether your solver meets these requirements, please feel free to contact us.
-
 There will be three categories of this track, one each for Main track, Parallel track and Cloud track solvers.
 Participants can submit a maximum of two solvers to the Main category of this track, and one solver for each of the Parallel and Cloud categories.
 We particularly welcome you to also submit solvers or configurations which are tailored to specific instance types.
+
+All submissions to the Anniversary track have to be open source.
+Solvers which contain code which could be perceived as instance-specific branching or a result-lookup table will be disqualified.
+If you are unsure whether your solver meets these requirements, please feel free to contact us.
 
 
 ## New This Year
