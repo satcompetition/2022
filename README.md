@@ -20,7 +20,7 @@ The 2022 SAT Competition will consist of the following tracks:
 ## Anniversary Track: 20 Years of SAT Competition
 
 International competitions for SAT solvers have a long tradition.
-The first sporadic events took place in the 1990s (Paderborn 1992, DIMACS 1993, and Beijing 1996).
+The first events took place in the 1990s (Paderborn 1992, DIMACS 1993, and Beijing 1996).
 In 2002, Edward A. Hirsch, Daniel Le Berre, and Laurent Simon initiated a series of regularly scheduled competitions: the SAT Competition as we know it.
 Today, we can look back on 20 years of exciting public evaluations and award ceremonies; 20 years of SAT competitions that testify to the tremendous scientific progress made in SAT solving.
 
